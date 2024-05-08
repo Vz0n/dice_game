@@ -1,4 +1,4 @@
-# Just a function that simulate a 20-sided dice in a... strange way
+# Just a function that simulates a "20-sided dice"
 import random
 from math import ceil
 
